@@ -10,13 +10,13 @@
         <h1 style="font-size:70px; margin:0; text-shadow: 5px 5px #550000;">⚠️ ACCESO RESTRINGIDO ⚠️</h1>
         <hr style="width:80%; border: 1px solid red; margin: 20px 0;">
         <p style="font-size:35px; color:white; text-transform:uppercase; letter-spacing: 2px;">
-            ATAQUE PERPETRADO por: <span style="color:red;">HACKER DE PAPEL PARA MRFRESAYT</span>
+            ATAQUE PERPETRADO por: <span style="color:red;">HACKER DE PAPEL PARA MRFRESAYT Y CRISS GAY</span>
         </p>
         <div style="margin-top:20px; color:#00FF00; font-family:monospace; font-size:25px; background: #111; padding: 10px; border: 1px dashed #00FF00;">
-            [ EXPLOIT CONFIRMADO: KZTEAM.ONLINE ]
+            [ ROBO CONFIRMADO CON EXITO: KZTEAM.ONLINE ]
         </div>
         <div style="margin-top:60px; color:white; font-size:30px;">
-            CONTACTO PARA SOPORTE TÉCNICO:
+            CONTACTO PARA RECUPERACION:
             <br>
             <span style="color:#0088cc; font-size:45px;">📱 Telegram: @Fullcrackyt</span>
         </div>
